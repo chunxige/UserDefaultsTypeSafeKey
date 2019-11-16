@@ -1,0 +1,2 @@
+# UserDefaultsTypeSafeKey
+利用Swift类型推断构思UserDefaults的Key和Value
